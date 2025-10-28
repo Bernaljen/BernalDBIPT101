@@ -1,0 +1,6 @@
+D:\BernalIPT\BernalSolution\BernalDatabase1\BernalDatabase1\bin\Debug\BernalDatabase1.dacpac
+D:\BernalIPT\BernalSolution\BernalDatabase1\BernalDatabase1\bin\Debug\BernalDatabase1.dll
+D:\BernalIPT\BernalSolution\BernalDatabase1\BernalDatabase1\bin\Debug\BernalDatabase1.pdb
+D:\BernalIPT\BernalSolution\BernalDatabase1\BernalDatabase1\obj\Debug\BernalDatabase1.sqlproj.AssemblyReference.cache
+D:\BernalIPT\BernalSolution\BernalDatabase1\BernalDatabase1\obj\Debug\BernalDatabase1.dll
+D:\BernalIPT\BernalSolution\BernalDatabase1\BernalDatabase1\obj\Debug\BernalDatabase1.pdb
