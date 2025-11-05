@@ -1,0 +1,10 @@
+D:\Sajor\BernalIPT101\BernalDatabase\bin\Debug\BernalDatabase.dacpac
+D:\Sajor\BernalIPT101\BernalDatabase\bin\Debug\BernalDatabase.dll
+D:\Sajor\BernalIPT101\BernalDatabase\bin\Debug\BernalDatabase.pdb
+D:\Sajor\BernalIPT101\BernalDatabase\obj\Debug\BernalDatabase.sqlproj.AssemblyReference.cache
+D:\Sajor\BernalIPT101\BernalDatabase\obj\Debug\Model.xml
+D:\Sajor\BernalIPT101\BernalDatabase\obj\Debug\refactor.xml
+D:\Sajor\BernalIPT101\BernalDatabase\obj\Debug\postdeploy.sql
+D:\Sajor\BernalIPT101\BernalDatabase\obj\Debug\predeploy.sql
+D:\Sajor\BernalIPT101\BernalDatabase\obj\Debug\BernalDatabase.dll
+D:\Sajor\BernalIPT101\BernalDatabase\obj\Debug\BernalDatabase.pdb

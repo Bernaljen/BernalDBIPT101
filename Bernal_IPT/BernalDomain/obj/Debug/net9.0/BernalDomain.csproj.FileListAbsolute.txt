@@ -1,0 +1,11 @@
+D:\Sajor\BernalIPT101\BernalDomain\bin\Debug\net9.0\BernalDomain.deps.json
+D:\Sajor\BernalIPT101\BernalDomain\bin\Debug\net9.0\BernalDomain.dll
+D:\Sajor\BernalIPT101\BernalDomain\bin\Debug\net9.0\BernalDomain.pdb
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\BernalDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\BernalDomain.AssemblyInfoInputs.cache
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\BernalDomain.AssemblyInfo.cs
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\BernalDomain.csproj.CoreCompileInputs.cache
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\BernalDomain.dll
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\refint\BernalDomain.dll
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\BernalDomain.pdb
+D:\Sajor\BernalIPT101\BernalDomain\obj\Debug\net9.0\ref\BernalDomain.dll
