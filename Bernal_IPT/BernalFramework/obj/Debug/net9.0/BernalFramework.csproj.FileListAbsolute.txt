@@ -1,0 +1,17 @@
+D:\Sajor\BernalIPT101\BernalFramework\bin\Debug\net9.0\BernalFramework.deps.json
+D:\Sajor\BernalIPT101\BernalFramework\bin\Debug\net9.0\BernalFramework.runtimeconfig.json
+D:\Sajor\BernalIPT101\BernalFramework\bin\Debug\net9.0\BernalFramework.dll
+D:\Sajor\BernalIPT101\BernalFramework\bin\Debug\net9.0\BernalFramework.pdb
+D:\Sajor\BernalIPT101\BernalFramework\bin\Debug\net9.0\BernalDomain.dll
+D:\Sajor\BernalIPT101\BernalFramework\bin\Debug\net9.0\BernalDomain.pdb
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.csproj.AssemblyReference.cache
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.AssemblyInfoInputs.cache
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.AssemblyInfo.cs
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.csproj.CoreCompileInputs.cache
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFr.D95CA537.Up2Date
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.dll
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\refint\BernalFramework.dll
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.pdb
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\BernalFramework.genruntimeconfig.cache
+D:\Sajor\BernalIPT101\BernalFramework\obj\Debug\net9.0\ref\BernalFramework.dll
